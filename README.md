@@ -21,6 +21,7 @@ Study, plan and hand in work.
 | [citeit](https://github.com/mostaaafaomran-ctrl/citeit) ([live](https://mostaaafaomran-ctrl.github.io/citeit/)) | Citation generator for websites, books and journal articles in APA 7, MLA 9, IEEE and Harvard. Build a bibliography and copy it. Offline. |
 | [slidemd](https://github.com/mostaaafaomran-ctrl/slidemd) ([live](https://mostaaafaomran-ctrl.github.io/slidemd/)) | Write slides in Markdown, present fullscreen with arrow keys, or print to PDF. Three themes, Arabic RTL. Offline. |
 | [interviewdeck](https://github.com/mostaaafaomran-ctrl/interviewdeck) ([live](https://mostaaafaomran-ctrl.github.io/interviewdeck/)) | Flashcards for JS, React, SQL and Node interviews with Arabic explanations. Shuffle, filter, track progress. |
+| [focusloop](https://github.com/mostaaafaomran-ctrl/focusloop) ([live](https://mostaaafaomran-ctrl.github.io/focusloop/)) | Pomodoro timer that logs what you studied, with today total, streak and a 7-day chart. Offline. |
 
 ### 🛠️ Developer tools
 Small utilities for everyday coding.
@@ -35,6 +36,8 @@ Small utilities for everyday coding.
 | [commitcraft](https://github.com/mostaaafaomran-ctrl/commitcraft) ([live](https://mostaaafaomran-ctrl.github.io/commitcraft/)) | Paste a git diff, get a Conventional Commits message. Offline and private, no AI key. |
 | [snipbox](https://github.com/mostaaafaomran-ctrl/snipbox) ([live](https://mostaaafaomran-ctrl.github.io/snipbox/)) | Save, tag, search and copy code snippets. Everything stays in your browser. Export and import JSON. |
 | [profilecard](https://github.com/mostaaafaomran-ctrl/profilecard) ([live](https://mostaaafaomran-ctrl.github.io/profilecard/)) | Generate a GitHub stats and top-languages card (SVG) for your profile README. 5 themes, no signup. |
+| [csvlens](https://github.com/mostaaafaomran-ctrl/csvlens) ([live](https://mostaaafaomran-ctrl.github.io/csvlens/)) | Open a CSV, sort and filter it, see column stats, export as JSON, Markdown table or CSV. Nothing is uploaded. |
+| [diffly](https://github.com/mostaaafaomran-ctrl/diffly) ([live](https://mostaaafaomran-ctrl.github.io/diffly/)) | Paste two versions of text or code, see added and removed lines with word-level highlights. Split or unified view. |
 
 ### 🔤 Arabic text tools
 Clean, convert and check Arabic text.
@@ -54,6 +57,7 @@ Fonts, colors and pages.
 | [fontpair](https://github.com/mostaaafaomran-ctrl/fontpair) ([live](https://mostaaafaomran-ctrl.github.io/fontpair/)) | Preview Arabic Google Fonts with your own text, pick a Latin pairing, copy the CSS. |
 | [contrastly](https://github.com/mostaaafaomran-ctrl/contrastly) ([live](https://mostaaafaomran-ctrl.github.io/contrastly/)) | Check text and background contrast against WCAG AA and AAA and get the closest passing color. Offline. |
 | [linkdrop](https://github.com/mostaaafaomran-ctrl/linkdrop) ([live](https://mostaaafaomran-ctrl.github.io/linkdrop/)) | Free link-in-bio page builder. Download one HTML file and host it anywhere. No signup, no tracking. |
+| [palettely](https://github.com/mostaaafaomran-ctrl/palettely) ([live](https://mostaaafaomran-ctrl.github.io/palettely/)) | Drop an image, get its main colors, build matching harmonies and export CSS variables, JSON or Tailwind. |
 
 ### 💼 Money and career
 Invoices, CVs and budgets.
@@ -63,6 +67,7 @@ Invoices, CVs and budgets.
 | [invoicenow](https://github.com/mostaaafaomran-ctrl/invoicenow) ([live](https://mostaaafaomran-ctrl.github.io/invoicenow/)) | Free invoice and quote maker, Arabic + English, EGP/USD, print to PDF. No signup. |
 | [cvforge](https://github.com/mostaaafaomran-ctrl/cvforge) ([live](https://mostaaafaomran-ctrl.github.io/cvforge/)) | Free bilingual (Arabic/English) ATS-friendly CV builder. No sign-up, runs in your browser. |
 | [masroof](https://github.com/mostaaafaomran-ctrl/masroof) ([live](https://mostaaafaomran-ctrl.github.io/masroof/)) | Student allowance tracker in EGP: safe-to-spend per day, category limits, Arabic + English, saved locally. |
+| [loanwise](https://github.com/mostaaafaomran-ctrl/loanwise) ([live](https://mostaaafaomran-ctrl.github.io/loanwise/)) | Loan calculator with monthly payment, total interest, full schedule, flat vs reducing rate and extra payments. |
 
 ### 🌙 Daily life and games
 Habits, dates and a word game.
