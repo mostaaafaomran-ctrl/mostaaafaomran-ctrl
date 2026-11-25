@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mostafa Omran 👋
 
-<!--
-**mostaaafaomran-ctrl/mostaaafaomran-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student from Egypt, building web projects with JavaScript and TypeScript.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Ezolve World](https://github.com/mostaaafaomran-ctrl/ezolve-world)**: a full-stack virtual economy platform (Next.js, Express, MongoDB, JWT).
+- **[Ezolve Juice](https://github.com/mostaaafaomran-ctrl/EZOLVE-JUICE)**: a landing page for a premium cold-pressed juice brand.
+- **[Birthday Template](https://github.com/mostaaafaomran-ctrl/birthday_template)**: a customizable birthday surprise website.
+
+## Tech
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+مرحباً، أنا مصطفى عمران. طالب علوم حاسب من مصر، وبعمل مشاريع ويب بـ JavaScript و TypeScript.
