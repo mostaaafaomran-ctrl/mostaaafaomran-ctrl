@@ -22,5 +22,3 @@ Computer science student from Egypt, building web projects with JavaScript and T
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
-
-مرحباً، أنا مصطفى عمران. طالب علوم حاسب من مصر، وبعمل مشاريع ويب بـ JavaScript و TypeScript.
